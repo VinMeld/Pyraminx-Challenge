@@ -2,7 +2,7 @@
 
 Pryaminx times:
 
-| Time in seconds |
+| Time in minutes |
 |:---------------:|
 |     1:49.00     | 
 |    2:05.667     |
