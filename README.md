@@ -25,3 +25,7 @@ A  matrices is a rectangular array of quantities or expressions in rows and colu
 To me, a matrices is almost like a grid system, and except one that you can change with ease. This challenge helped me understand it, as each face is sort of like a matrice, where each block is a position or point in the matrix. 
 
 In computer science, there are times where being able to code in 3D space and understand it is important. This, helped me have a better understanding on how to manipulate 3D space and change it.   
+
+## What I accomplished
+
+I accomplished solving a pyraminx and my best time was 1:27.295.
