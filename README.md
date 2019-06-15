@@ -10,7 +10,20 @@ Pyraminx times:
 |    1:27.295     |
 |     2:00.909    |
 
-Average time of 3: __1:58.5 minutes.__
+Average time of 3:  __1:58.5 minutes.__
+
+Pyraminx Duo times:
+
+| Time in minutes |
+|:---------------:|
+|     28.067     | 
+|    22.836     |
+|    19.436     |
+|    8.258     |
+|     9.01    |
+
+Average time of 3:   __17.094 seconds.__
+
 
 An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 
